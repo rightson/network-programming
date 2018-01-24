@@ -1,0 +1,9 @@
+****************************************
+** Welcome to the information server. **
+****************************************
+% ls |1 xxx
+Unknown command: [xxx].
+% number
+   1 bin
+   2 test.html
+% exit

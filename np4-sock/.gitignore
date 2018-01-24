@@ -1,0 +1,9 @@
+**.swp
+**.o
+**.d
+tags
+cscope.*
+delayedremovetag
+cgi/cgi
+httpd/httpd
+sock/sock

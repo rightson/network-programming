@@ -1,0 +1,7 @@
+**.swp
+**.o
+**.d
+rwg-shm
+tags
+cscope.*
+delayedremovetag
