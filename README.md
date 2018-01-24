@@ -10,6 +10,6 @@ Project 3: a remote batch system ([RBS](np3-rbs/spec/hw3_spec.txt)) in HTTP.
 
 Project 4: a [sock (proxy) server](np4-sock/spec/NP_project4.pptx) which should support sock4 protocol.
 
-The projects were asked to be written in C/C++, to make code clean, some C++11 syntax sugers are used.
+The projects were asked to be written in C/C++, to make code clean, some C++11 syntax sugers were used.
 
-The code isn't written for optimizing performance but for proof-of-concepts.
+The code wasn't written for optimizing performance but for proof-of-concept.
